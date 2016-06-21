@@ -3,13 +3,13 @@
 A community driven list of useful OpenMP links. This is not a catalog of all, just a starting point for your explorations. Inspired by [awesome-python](https://github.com/vinta/awesome-python). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 
-[http://openmp.org/](http://openmp.org/)  - OpenMP ARB 
+* [OpenMP ARB](http://openmp.org/)  - The OpenMP ARB (or just “ARB”) is the non-profit corporation that owns the OpenMP brand
 
-[https://github.com/OpenMP/Examples](https://github.com/OpenMP/Examples)  - Examples Github 
+* [Examples of OpenMP on Github](https://github.com/OpenMP/Examples)  - LaTeX Examples Document Source
 
-[https://www.youtube.com/user/OpenMPARB](https://www.youtube.com/user/OpenMPARB) -  OpenMP ARB channel on youtube 
+* [https://www.youtube.com/user/OpenMPARB](https://www.youtube.com/user/OpenMPARB) -  OpenMP ARB channel on youtube 
 
-[https://computing.llnl.gov/tutorials/parallel_comp/](https://computing.llnl.gov/tutorials/parallel_comp/) - Introduction to Parallel Computing by Lawrence Livermore National Laboratory	
+* [ [https://computing.llnl.gov/tutorials/parallel_comp/](https://computing.llnl.gov/tutorials/parallel_comp/) - Introduction to Parallel Computing by Lawrence Livermore National Laboratory	
 
 
 
