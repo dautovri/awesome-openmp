@@ -17,4 +17,4 @@ A community driven list of useful OpenMP links. This is not a catalog of all, ju
 
 
 # Contributing
-Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.
+Your contributions are always welcome! Please submit a pull request or create an issue to add. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.
