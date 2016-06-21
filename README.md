@@ -11,6 +11,7 @@ A community driven list of useful OpenMP links. This is not a catalog of all, ju
 
 * [LLNL OpenMP page](https://computing.llnl.gov/tutorials/parallel_comp/) - Introduction to Parallel Computing by Lawrence Livermore National Laboratory	
 
+* [OpenMPRTL](https://www.openmprtl.org/)  Intel OpenMP Runtime Library
 
 
 
