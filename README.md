@@ -9,7 +9,7 @@ A community driven list of useful OpenMP links. This is not a catalog of all, ju
 
 * [https://www.youtube.com/user/OpenMPARB](https://www.youtube.com/user/OpenMPARB) -  OpenMP ARB channel on youtube 
 
-* [ [https://computing.llnl.gov/tutorials/parallel_comp/](https://computing.llnl.gov/tutorials/parallel_comp/) - Introduction to Parallel Computing by Lawrence Livermore National Laboratory	
+* [LLNL OpenMP page](https://computing.llnl.gov/tutorials/parallel_comp/) - Introduction to Parallel Computing by Lawrence Livermore National Laboratory	
 
 
 
