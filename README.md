@@ -15,6 +15,8 @@ A community driven list of useful OpenMP links. This is not a catalog of all, ju
 
 * [GNU GCC OpenMP](http://gcc.gnu.org/projects/gomp/) - The GOMP project has developed an implementation of OpenMP for the C, C++, and Fortran compilers in the GNU Compiler Collection 
 
+* [32 OpenMP Traps For C++ Developers](http://www.viva64.com/en/a/0054/) - Errors which lead to incorrect behavior of parallel programs created with OpenMP.
+
 
 
 # Contributing
