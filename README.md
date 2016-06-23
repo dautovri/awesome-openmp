@@ -7,15 +7,19 @@ A community driven list of useful OpenMP links. This is not a catalog of all, ju
 
 * [Examples of OpenMP on Github](https://github.com/OpenMP/Examples)  - LaTeX Examples Document Source
 
-* [https://www.youtube.com/user/OpenMPARB](https://www.youtube.com/user/OpenMPARB) -  OpenMP ARB channel on youtube 
+* [Examples of OpenMP ](http://people.sc.fsu.edu/~jburkardt/cpp_src/openmp/openmp.html) - C++ Examples of Parallel Programming with OpenMP
+
+* [Youtube lectures OpenMP](https://www.youtube.com/user/OpenMPARB) -  OpenMP ARB channel on youtube 
 
 * [LLNL OpenMP page](https://computing.llnl.gov/tutorials/parallel_comp/) - Introduction to Parallel Computing by Lawrence Livermore National Laboratory	
+
+* [Getting started with OpenMP from Intel](https://software.intel.com/en-us/articles/getting-started-with-openmp/) - A Quick Introduction to OpenMP
+
+* [32 OpenMP Traps For C++ Developers](http://www.viva64.com/en/a/0054/) - Errors which lead to incorrect behavior of parallel programs created with OpenMP.
 
 * [OpenMPRTL](https://www.openmprtl.org/) - Intel OpenMP Runtime Library
 
 * [GNU GCC OpenMP](http://gcc.gnu.org/projects/gomp/) - The GOMP project has developed an implementation of OpenMP for the C, C++, and Fortran compilers in the GNU Compiler Collection 
-
-* [32 OpenMP Traps For C++ Developers](http://www.viva64.com/en/a/0054/) - Errors which lead to incorrect behavior of parallel programs created with OpenMP.
 
 
 
