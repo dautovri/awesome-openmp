@@ -19,6 +19,8 @@ A community driven list of useful OpenMP links. This is not a catalog of all, ju
 
 * [OpenMPRTL](https://www.openmprtl.org/) - Intel OpenMP Runtime Library
 
+* [Clang OpenMP](http://openmp.llvm.org/) - OpenMP subproject of LLVM
+ 
 * [GNU GCC OpenMP](http://gcc.gnu.org/projects/gomp/) - The GOMP project has developed an implementation of OpenMP for the C, C++, and Fortran compilers in the GNU Compiler Collection 
 
 * [OpenMPCon](http://openmpcon.org/)  -  annual gathering of developers focused on the practical application of the OpenMP API
