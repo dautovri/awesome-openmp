@@ -13,6 +13,8 @@ A community driven list of useful OpenMP links. This is not a catalog of all, ju
 
 * [LLNL OpenMP page](https://computing.llnl.gov/tutorials/parallel_comp/) - Introduction to Parallel Computing by Lawrence Livermore National Laboratory	
 
+* [LLNL OpenMP examples](https://computing.llnl.gov/tutorials/openMP/exercise.html) - OpenMP Exercise by Lawrence Livermore National Laboratory	
+
 * [Getting started with OpenMP from Intel](https://software.intel.com/en-us/articles/getting-started-with-openmp/) - A Quick Introduction to OpenMP
 
 * [32 OpenMP Traps For C++ Developers](http://www.viva64.com/en/a/0054/) - Errors which lead to incorrect behavior of parallel programs created with OpenMP.
@@ -23,8 +25,8 @@ A community driven list of useful OpenMP links. This is not a catalog of all, ju
  
 * [GNU GCC OpenMP](http://gcc.gnu.org/projects/gomp/) - The GOMP project has developed an implementation of OpenMP for the C, C++, and Fortran compilers in the GNU Compiler Collection 
 
-
 * [OpenMPCon](http://openmpcon.org/)  -  annual gathering of developers focused on the practical application of the OpenMP API
+
 
 
 # Contributing
