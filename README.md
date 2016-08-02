@@ -28,6 +28,17 @@ A community driven list of useful OpenMP links. This is not a catalog of all, ju
 * [OpenMPCon](http://openmpcon.org/)  -  annual gathering of developers focused on the practical application of the OpenMP API
 
 
+## Tips
 
-# Contributing
-Your contributions are always welcome! Please submit a pull request or create an issue to add. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.
+Contribute some ;)
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
