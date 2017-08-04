@@ -29,6 +29,8 @@ A community driven list of useful OpenMP links. This is not a catalog of all, ju
 
 * [Parallel Programming for Multicore Machines Using OpenMP and MPI](http://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/)
 
+* [Best Practice Guide - Knights Landing](http://www.prace-ri.eu/IMG/pdf/Best-Practice-Guide-Knights-Landing.pdf)
+
 ## Tips
 
 Contribute some ;)
